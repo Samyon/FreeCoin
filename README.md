@@ -1,12 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-  <meta content="text/html; charset=ISO-8859-1"
- http-equiv="content-type">
-  <title>Открытая электронная валюта с высокой скоростью
-транзакций</title>
-</head>
-<body>
+
 <br>
 Доброго времени суток, уважаемые.<br>
 В данной статье я предлагаю разработать децентрализованную электронную
@@ -352,5 +344,4 @@ C) в конце концов оказались деньги?<br>
 <br>
 <br>
 <br>
-</body>
-</html>
+
